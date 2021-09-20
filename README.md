@@ -1,8 +1,5 @@
 # how-to-start-autonomous
-
-# (로봇)자율주행 시작하기
-
-- 본 포스팅은 자율주행을 처음시작하시는 분들을 위해 기술분류, 간단한 알고리즘 설명을 위주로 작성한 내용입니다. 
+자율주행 입문자 혹은 스터디를 시작하는 사람들(나자신 포함)에게 도움이 되고자 만든 repository (This repository is intented for helping whom are interested in autonomous tech & robotics)
 
 
 1. 인지
